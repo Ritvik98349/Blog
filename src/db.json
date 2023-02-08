@@ -1,0 +1,54 @@
+{
+    "Artciles": [
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "1",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started.",
+            "Location" : "New Zeland",
+            "Content" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."            
+        },
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "2",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+        },
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "3",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+        },
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "4",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+        },
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "5",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+        },
+        {
+            "Title": "My React App",
+            "Author": "Ritvik",
+            "Category": "Tech",
+            "id": "6",
+            "Date": "8 Feb 2023",
+            "Intro" : "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+        }
+    ]
+}

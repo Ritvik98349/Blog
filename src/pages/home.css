@@ -1,0 +1,312 @@
+.landing1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 96px 0px 192px;
+    gap: 64px;
+    
+    width: 1440px;
+    height: 400px;
+    
+    /* Gray/800 */
+    background: #1D2939;    
+}
+.landing1_1{
+    width:  960px;
+    height: 24px; 
+
+}
+.l1_p1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+
+/* Gray/200 */
+color: #EAECF0;
+
+    /* fontFamily:  Inter ,
+    fontStyle:  normal ,
+    fontWeight:  600 ,
+    fontSize:  16px ,
+    lineHeight:  24px ,
+    textAlign:  center ,
+    color:  #EAECF0  */
+}
+.landing1_2{
+    width: 960px;
+    height: 60px;
+   
+}
+.l1_p2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height, or 125% */
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    /* Base/White */
+    color: #FFFFFF;
+}
+.lanlanding1container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 32px;
+    gap: 32px;
+
+    width: 1280px;
+    height: 294px;
+}
+.landing1_3{
+    width: 768px;
+    height: 60px;
+}
+.l1_p3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+    text-align: center;
+
+    /* Gray/200 */
+    color: #EAECF0;
+}
+.emailCapture{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 505px;
+    height: 74px;
+}
+.inputField{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 6px;
+    width: 360px;    
+    height: 74px;
+    
+}
+.inputlabel{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* padding: 0px;
+    gap: 6px; */
+    padding: 12px 14px;
+gap: 8px;
+    
+    width: 360px;
+height: 48px;
+
+/* Base/White */
+background: #FFFFFF;
+/* Gray/300 */
+border: 1px solid #D0D5DD;
+/* Shadow/xs */
+box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+border-radius: 8px;
+    
+}
+.hintText{
+    width: 360px;
+    height: 20px;
+}
+.hintTextText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #EAECF0;    
+}
+.GetStarted{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 20px;
+    gap: 8px;
+    
+    width: 129px;
+    height: 48px;
+    
+    /* Primary/600 */
+    background: #7F56D9;
+    /* Primary/600 */
+    border: 1px solid #7F56D9;
+    /* Shadow/xs */
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+    color: white;
+}
+
+.input_type1{
+    width: 360px;
+    /* height: 40px; */
+    
+    /* Base/White */
+    background: #FFFFFF;
+    /* Gray/300 */
+    border: 1px solid #D0D5DD;
+    /* Shadow/xs */
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+
+    padding: 12px 14px;
+gap: 8px;
+}
+.hintText{
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    /* Gray/200 */
+    color: #EAECF0;
+    text-align: start;
+}
+
+/* section 2 */
+.container2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 32px;
+    gap: 64px;
+
+    height: 1736px;
+}
+.blogPostCard{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+}
+/* .image1{
+    background: url("../../public/images/Image.png");
+} */
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+}
+.contentp1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+/* Primary/700 */
+color: #6941C6;
+}
+.contentp2{
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height, or 127% */
+
+    /* Gray/900 */
+    color: #101828;
+}
+.contentp3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    /* Gray/600 */
+    color: #475467;
+    
+}
+.contentCat1{
+    background: #F9F5FF;
+    mix-blend-mode: multiply;
+    border-radius: 16px;
+    height: 2rem;
+    width: 4rem;
+}
+.layoutCard{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    width: 384px;
+    height: 436px;
+    margin-top: 2.5rem;
+
+}
+.layoutCardcontent1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6941C6;
+}
+.layoutCardcontent2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height, or 133% */
+
+
+    /* Gray/900 */
+
+    color: #101828;
+    margin-top: 1rem;
+}
+.layoutCardcontent3{
+        font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    /* Gray/600 */
+
+    color: #475467;
+    margin-top: 1rem;
+}
+.cardRow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.sharebtn{
+    border: none;
+    background-color: inherit;
+}

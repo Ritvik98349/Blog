@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* background-color: black; */
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+.login-section {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-section1{
+    display: flex;
+    justify-content: center;
+    width:50%;
+    height: 100vh;   
+}
+.login-section2 {
+    width:60%;
+    height: 100vh;
+
+    /* border: 2px solid blue; */
+}
+
+.login-section1 {
+    border-radius: 5%;
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    /* border: 0.25rem solid black;    */
+    width: 55%;
+    /* padding: none;
+    margin: none; */
+    /* border: 1rem solid black; */
+}
+
+.card-section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card h2{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.card p {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+.section p {
+    font-size: 1.4rem;
+    margin-bottom: 0.7rem;
+}
+
+.card input {
+    width: 100%;
+    padding: 1rem 1.4rem 1rem 1.4rem;
+    margin-bottom: 2rem;
+    border: 0.1rem solid black;
+    border-radius: 0.4rem;
+}
+
+button {
+    width: 100%;
+    padding: 1rem 1.8rem 1rem 1.8rem;
+    /* margin-top: 2rem; */
+    font-size: 1.6rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 0.4rem;
+}
+
+.button1 {
+    width: 50%;
+    background-color: #7F56D9;
+    color: white;
+}
+
+.button2 {
+    border: 0.1rem solid black;
+    background-color: white;
+    color: black;
+}
+
+.section-password-secret {
+    font-size: x-large;
+}
+
+.section-last{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+font-size: medium;
+align-items: baseline;
+padding-top: 30px;
+gap: 4px;
+/* width: 360px; */
+height: 20px;
+}
+
+.section-signup {
+    text-decoration: none;
+}
+.section-button{
+    display: flex;
+    justify-content: center;
+}
